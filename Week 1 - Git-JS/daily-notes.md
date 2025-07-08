@@ -31,3 +31,23 @@ Updated the value of age inside the object using:
 
 Summary Statement:
 learned how to declare and use variables in JavaScript, the differences between var, let, and const, understood primitive vs. non-primitive data types, worked with objects, and practiced accessing and updating object values.
+
+
+Welcome to Day 2 Lerning JS.
+ in day 2 we I learn.
+
+ In day 2 we learn how the conditional statements, alart, prompt are working.
+
+Check if a number is a multiple of 5 using if-else and % operator.(You can see in consitional.js file)
+
+Assign grades based on marks using if-else if conditions with range checks.
+
+It also shows how to:
+
+Take user input using prompt().
+
+Use logical operators (&&) for range checking.
+
+Print output using console.log().
+
+It’s a simple practice of decision-making in JavaScript.
